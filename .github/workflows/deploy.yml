@@ -11,5 +11,3 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
-      - name: Force failure
-              run: exit 1
